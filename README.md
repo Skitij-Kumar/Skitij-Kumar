@@ -1,7 +1,7 @@
 [![MasterHead](https://www.istockphoto.com/vector/mix-race-businesspeople-traders-analyzing-financial-statistics-data-analysis-gm1310506419-399890946?searchscope=image%2Cfilm)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Skitij Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=analyst%20gif%20image%203d&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A900%2F1*YCrp0Z8mAOe2IUV9XmlEDw.gif&imgrefurl=https%3A%2F%2Fai.plainenglish.io%2Fhow-to-become-data-scientist-a-beginner-guide-b6139fe064b9&docid=zkUNBN8WWgJHVM&tbnid=L6_HW8Zc5KvLAM&vet=12ahUKEwiJx-bMlIqGAxXG-DgGHeBDDiUQM3oFCIYBEAA..i&w=450&h=350&hcb=2&ved=2ahUKEwiJx-bMlIqGAxXG-DgGHeBDDiUQM3oFCIYBEAA")
+(img align="right" alt="Coding" width="400" src="\https://iconscout.com/lottie-animation/data-analysis-4179002")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skitij-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="skitij-kumar" /> </p>
 
