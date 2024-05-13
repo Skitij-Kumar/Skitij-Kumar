@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kshitijsingh24k@gmail.com**
 
-- ⚡ Fun fact **I think I am Ambivert**
+- ⚡ Fun fact **I am Ambivert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
